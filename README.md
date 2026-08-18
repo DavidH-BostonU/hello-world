@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing GitHub Flow
+I’m a Senior VFX Compositor with over a decade of experience in film and television, specializing in visual effects and digital image creation. I’m currently making a career transition into AI and enterprise AI, where I’m developing skills in artificial intelligence, data, automation, and emerging technologies. I’m particularly interested in practical applications of AI that can improve how businesses operate and solve complex problems. I’m currently pursuing graduate studies in Enterprise AI to build a strong foundation for this new career path. My goal is to transition from the entertainment industry into a career focused on AI and its applications in business.
+
